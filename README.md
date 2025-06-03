@@ -10,8 +10,8 @@
 
 Engenheiro Mecatrônico | Entusiasta em Automação, Robótica e Inteligência Artificial 🤖.
 
-- 🔭 **Atualmente focando no meu crescimento profissional** - Expandindo conhecimentos em engenharia mecatrônica, automação e programação a fim de me tornar um especialista na área.
-- 🌱 **Aprendizado contínuo em tecnologia** - Dominando novas linguagens de programação, ferramentas de automação e conceitos da Indústria 5.0 para aplicação em projetos inovadores.
+- 🔭 **Atualmente focando no meu crescimento profissional** - Expandindo conhecimentos em engenharia mecatrônica, automação e programação.
+- 🌱 **Aprendizado contínuo em tecnologia** - Dominando novas linguagens de programação, ferramentas de automação e conceitos da Indústria 5.0.
 - 🚀 **Desenvolvendo soluções e produtos inovadores** - Projetando sistemas mecatrônicos completos, desde prototipagem até produto final, combinando automação industrial, robótica e desenvolvimento embarcado.  
    
 </div>
