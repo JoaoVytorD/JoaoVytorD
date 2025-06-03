@@ -8,7 +8,7 @@
   
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 
-Engenheiro Mecatrônico | Entusiasta em Automação, Robótica e Inteligência Artificial 🤖.
+Engenheiro Mecatrônico | Automação, Robótica e Inteligência Artificial 🤖.
 
 - 🔭 **Atualmente focando no meu crescimento profissional** - Expandindo conhecimentos em engenharia mecatrônica, automação e programação.
 - 🌱 **Aprendizado contínuo em tecnologia** - Dominando novas linguagens de programação, ferramentas de automação e conceitos da Indústria 5.0.
